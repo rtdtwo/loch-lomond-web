@@ -2,23 +2,23 @@
   "skillCategories": [
     {
       "icon": "Code",
-      "title": "Programming Languages",
-      "skills": ["Python", "Java", "JavaScript", "SQL", "HTML/CSS", "C++"]
-    },
-    {
-      "icon": "Database",
-      "title": "Technologies & Frameworks",
-      "skills": ["React", "Node.js", "Git", "REST APIs", "Financial APIs", "Database Design"]
-    },
-    {
-      "icon": "Cloud",
-      "title": "Tools & Platforms",
-      "skills": ["VS Code", "IntelliJ IDEA", "Postman", "Financial Software", "Agile/Scrum", "Linux"]
+      "title": "Programming & Development",
+      "skills": ["Java", "Python", "Kotlin", "JavaScript", "C++", "React.js", "Angular.js", "WordPress", "Spring Boot"]
     },
     {
       "icon": "TrendingUp",
-      "title": "Financial Tech",
-      "skills": ["Financial Software Development", "Trading Systems", "Financial APIs", "Risk Management", "Market Data", "Financial Modeling"]
+      "title": "Mobile & Web Platforms",
+      "skills": ["Android", "React Native", "Web Development", "Cross-platform Development"]
+    },
+    {
+      "icon": "Database",
+      "title": "Data & Infrastructure",
+      "skills": ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Kubernetes", "AWS (S3, EC2, EB, RDS)", "DigitalOcean"]
+    },
+    {
+      "icon": "Cloud",
+      "title": "Tools & Design",
+      "skills": ["Git", "JIRA", "Confluence", "Firebase", "Figma", "Adobe XD", "JUnit", "Jest", "Espresso", "Cypress"]
     }
   ]
 }
