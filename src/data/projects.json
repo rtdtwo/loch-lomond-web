@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "title": "WeathAir",
+      "description": "NOAA NWS Airport Weather data, served beautifully. A web application that provides access to National Weather Service airport weather data with an intuitive and attractive interface.",
+      "technologies": ["JavaScript", "Web Development", "Bootstrap", "React.js", "Figma"],
+      "highlights": ["NOAA weather data integration", "Beautiful UI/UX design", "Real-time weather information"],
+      "duration": "Jan 2023 - Present",
+      "type": "Website",
+      "github": "https://github.com/rtdtwo/weathair",
+      "demo": "https://rtdtwo.github.io/weathair/"
+    },
+    {
+      "title": "India Weather REST API",
+      "description": "A RESTful API to access weather data from the India Meteorological Department. Built to solve the challenge of accessing IMD weather data which is notoriously difficult to obtain through official channels.",
+      "technologies": ["Python", "Flask", "Web Scraping", "REST API", "Weather Data"],
+      "highlights": ["30+ stars on GitHub", "Open source contribution", "IMD data accessibility"],
+      "duration": "Open Source Project",
+      "type": "API Service",
+      "github": "https://github.com/rtdtwo/india-weather-rest",
+      "demo": "https://github.com/rtdtwo/india-weather-rest"
+    },
+    {
+      "title": "Alli: Chomp Away Bad Habits",
+      "description": "A habit-tracking application developed at the University of Florida. Helps users build positive habits and break negative ones through an engaging and interactive interface.",
+      "technologies": ["Python", "JavaScript", "Jira", "Figma"],
+      "highlights": ["Habit tracking system", "University project", "User behavior analysis"],
+      "duration": "Sep 2022 - Dec 2022",
+      "type": "University Project",
+      "github": "https://github.com/rtdtwo/alli-app",
+      "demo": "https://www.youtube.com/watch?v=XSaIQSdRvUs"
+    },
+    {
+      "title": "Voyager",
+      "description": "Personal project. Voyager is a travel itinerary visualizer. Simply set your home city and start adding destinations to see them on a beautifully crafted map - a way to remember all your travels!",
+      "technologies": ["Leaflet.js", "JavaScript", "Web Development", "React.js", "Figma"],
+      "highlights": ["Interactive map visualization", "Travel planning", "Personal project"],
+      "duration": "Jan 2021",
+      "type": "Personal Project",
+      "github": "https://github.com/rtdtwo/voyager",
+      "demo": "https://rtdtwo.github.io/voyager/"
+    }
+  ]
+}

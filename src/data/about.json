@@ -1,0 +1,15 @@
+{
+  "background": {
+    "title": "Background",
+    "description1": "I'm a Financial Software Associate at Galatea Associates LLC, where I help solve Wall Street's most challenging problems through custom software solutions. Working with investment banks and financial institutions, I deliver technology that transforms complex workflows into streamlined, efficient systems.",
+    "description2": "Since 2018, I've been tackling technology problems professionally, building my expertise across the full development stack. My approach combines technical excellence with creative problem-solving to deliver robust solutions that address real business needs."
+  },
+  "focusAreas": {
+    "title": "Focus Areas",
+    "areas": [
+      "Financial software development",
+      "Full-stack development",
+      "Custom software solutions"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "loch-lomond-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "rsbuild build",
+    "build:analyze": "rsbuild build --analyze",
+    "build:prod": "NODE_ENV=production rsbuild build",
+    "dev": "rsbuild dev --open",
+    "preview": "rsbuild preview",
+    "seo:check": "npm run build && npx lighthouse http://localhost:4173 --output html --output-path ./lighthouse-report.html",
+    "seo:validate": "npm run build && npx html-validate dist/**/*.html"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "lucide-react": "^0.539.0",
+    "motion": "^12.23.12",
+    "react": "^19.1.1",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.4.13",
+    "@rsbuild/plugin-react": "^1.3.4",
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "typescript": "^5.9.2"
+  }
+}

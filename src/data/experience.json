@@ -1,0 +1,44 @@
+{
+  "experiences": [
+    {
+      "title": "Financial Software Associate",
+      "company": "Galatea Associates LLC",
+      "duration": "Jun 2023 - Present",
+      "location": "Boston, MA",
+      "description": "Helping solve Wall Street's most challenging problems through custom software solutions. Working with investment banks and financial institutions to deliver technology that transforms complex workflows into streamlined, efficient systems.",
+      "technologies": ["Jira", "Databricks", "JavaScript", "Spring Framework", "Python", "Figma", "AWS", "Docker", "Apache Spark"]
+    },
+    {
+      "title": "Student Software Engineer",
+      "company": "University of Florida, Clinical & Translational Science Institute (CTSI)",
+      "duration": "Jan 2022 - Apr 2023",
+      "location": "Gainesville, FL",
+      "description": "Contributed to developing software solutions for the 1Florida Alzheimer's Disease Research Center (ADRC) group. Designed systems for seamless data sharing and integration across multiple universities. Developed Python scripts to automate clinical report generation and created tools for REDCap database integration.",
+      "technologies": ["Jira", "MySQL", "JavaScript", "Python", "Java", "Docker", "REDCap", "HTML"]
+    },
+    {
+      "title": "Financial Software Associate Intern",
+      "company": "Galatea Associates LLC",
+      "duration": "May 2022 - Aug 2022",
+      "location": "St. Petersburg, FL",
+      "description": "Developed an internal BA user tool for a major investment bank featuring React.js interface, Java Spring Boot backend, and MongoDB database. The tool streamlined workflows and automated key processes, significantly improving team productivity.",
+      "technologies": ["React.js", "Spring Boot", "Java", "MongoDB", "JavaScript", "Python", "AWS", "Docker", "Figma"]
+    },
+    {
+      "title": "Senior Android Developer",
+      "company": "Webloom",
+      "duration": "Aug 2020 - Jan 2021",
+      "location": "Remote",
+      "description": "Led app-wide UI reforms implementing modern design while transitioning to MVVM architecture. Developed an augmented reality camera module using DeepAR with real-time face tracking, background segmentation, and customizable filters.",
+      "technologies": ["Android", "Kotlin", "Java", "MVVM", "DeepAR", "React Native", "JavaScript", "C++", "Figma"]
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "GigIndia",
+      "duration": "Nov 2016 - Feb 2020",
+      "location": "Pune, Maharashtra, India",
+      "description": "As a founding member of the technology team, developed and scaled various systems including a spam control system using OpenCV, RESTful web services with Python, and managed cloud platforms (AWS, DigitalOcean). Oversaw Android app lifecycle and introduced MVP and Observer design patterns.",
+      "technologies": ["Python", "Node.js", "PostgreSQL", "AWS", "DigitalOcean", "Android", "Java", "Kotlin", "OpenCV", "Docker"]
+    }
+  ]
+}

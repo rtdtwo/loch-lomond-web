@@ -1,0 +1,24 @@
+{
+  "skillCategories": [
+    {
+      "icon": "Code",
+      "title": "Programming Languages",
+      "skills": ["Python", "Java", "JavaScript", "SQL", "HTML/CSS", "C++"]
+    },
+    {
+      "icon": "Database",
+      "title": "Technologies & Frameworks",
+      "skills": ["React", "Node.js", "Git", "REST APIs", "Financial APIs", "Database Design"]
+    },
+    {
+      "icon": "Cloud",
+      "title": "Tools & Platforms",
+      "skills": ["VS Code", "IntelliJ IDEA", "Postman", "Financial Software", "Agile/Scrum", "Linux"]
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Financial Tech",
+      "skills": ["Financial Software Development", "Trading Systems", "Financial APIs", "Risk Management", "Market Data", "Financial Modeling"]
+    }
+  ]
+}

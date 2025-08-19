@@ -1,0 +1,8 @@
+export { default as skillsData } from './skills.json'
+export { default as projectsData } from './projects.json'
+export { default as experienceData } from './experience.json'
+export { default as aboutData } from './about.json'
+export { default as contactData } from './contact.json'
+export { default as heroData } from './hero.json'
+export { iconMap } from './iconMap'
+export type { IconName } from './iconMap'
