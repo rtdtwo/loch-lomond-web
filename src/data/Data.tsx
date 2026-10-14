@@ -77,7 +77,7 @@ export const Projects: Project[] = [
         title: "Personal Weather Station",
         description: "A personal weather station built using Arduino and sensors, connected to a PostgreSQL database via my own REST APIs. I then created a web frontend to turn that raw environmental data into clean, readable charts and live updates.",
         image: "/res/banners/pws-banner.jpg",
-        link: "https://pws.rishabh.blog",
+        link: "",
         githubLink: "https://github.com/rtdtwo/pws-frontend/"
     },
     {
